@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+I am Azmyin, a Doctoral student currently pursuing a Ph.D. program in MIE. There I am working on finding novel ways of using semantics of the world extracted RGB-D data to improve single-agent and multi-agent SLAM frameworks. Currently being funded from a NSF project.
+
+I love to code and deeply appreciate the power it grants to its user. 
+
+- 🌱 I’m currently learning large-scale collaborative software development in CSC 7000 level course. Also working on 3D object detection from vision data.
+
+📫 How to reach me: Email: akamal4@lsu.edu (valid tentatively till end of 2025)
 
 <!--
 **Mechazo11/Mechazo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
