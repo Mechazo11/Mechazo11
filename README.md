@@ -1,5 +1,5 @@
 ### Hello there 👋
-I am Azmyin, a Doctoral student currently pursuing a Ph.D. program in MIE. There I am working on finding novel ways of using semantics of the world extracted RGB-D data to improve single-agent and multi-agent SLAM frameworks. Currently being funded from a NSF project.
+I am Azmyin, a Doctoral student currently pursuing a Ph.D. program in MIE. Here, I am working on finding novel ways of using semantics of the world extracted RGB-D data to improve single-agent and multi-agent SLAM frameworks. Currently being funded from a NSF project.
 
 I love to code and deeply appreciate the power it grants to its user. 
 
