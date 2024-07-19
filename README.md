@@ -7,6 +7,8 @@ I love to code and deeply appreciate the power it grants to its user.
 
 - 📫 How to reach me: Email: akamal4@lsu.edu (valid tentatively till end of 2025)
 
+COMING SOON.... link to personal website that showcases some of my projects, my experiences and some of my publications
+
 <!--
 **Mechazo11/Mechazo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
