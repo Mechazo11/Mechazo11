@@ -1,5 +1,9 @@
 ### Hello there 👋
-I am Azmyin, a Doctoral student currently pursuing a Ph.D. program in the Department of MIE at Louisiana State University. Here, I am working on finding novel ways of using semantic data extracted from RGB-D images to improve single-agent and multi-agent localization and navigation systems. The project is funded by NSF-NRI grant.
+I am Azmyin, a Doctoral student currently pursuing a Ph.D. program in the Department of MIE at Louisiana State University. 
+
+Here, I am working on finding novel ways of using semantic data extracted from RGB-D images to improve single-agent and multi-agent localization and mapping for robotic systems 🤖. The project is funded by NSF-NRI grant.
+
+Also presently learning how to use the Open 3D Engine for photorealsitic, physics-based simulation study.
 
 - 📫 How to reach me: Email: akamal4@lsu.edu (valid tentatively till end of 2025)
 
