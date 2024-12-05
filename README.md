@@ -2,40 +2,36 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Mechazo11/count.svg) visitor!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mechazo11&show_icons=true&theme=buefy)
+
 ## 📫 Contact information:
-- Portfolio website: [mechazo11.github.io](mechazo11.github.io)
+Please feel free to reaching out to me over Email or LinkedIn
 - Email: akamal4@lsu.edu
+- Linkedin: https://www.linkedin.com/in/azmyinkamal/
+
+## 🌐 Portfolio Website
+- [mechazo11.github.io](https://mechazo11.github.io/)
 
 ## 🎓 Education
 
 - 🏫 Currently: Ph.D. student at the ICORE Lab in the Department of Mechanical Engineering, Louisiana State University.
+- 🏫 Masters in Engineering (conc. Mechanical Engineering) from the University of Louisiana at Lafayette. Degree awarded on December 2021.
 
-- 🏫 Previously: Masters in Engineering (conc. Mechanical Engineering) from the University of Louisiana at Lafayette.
+## 🎯 Research Interests
+- Multi-agent Visual Object SLAM
+- Collaborative Real-Time Mapping and Localization
+- Object Pose Estimation
+- Semantic Scene Understanding
+- Model-Predictive Motion Planning and Control
 
 ## 🔬 Research Experience
-- 2021 - Present: Developing novel semantic-metric VSLAM frameworks for collaborative mobile robots.
-- 2019 - 2021: Anonymous multi-user tracking system using perception and bluetooth positioning systems.
- 
-Here, I am working on finding novel ways of using semantic data extracted from RGB-D images to improve single-agent and multi-agent localization and mapping for robotic systems 🤖. The project is funded by NSF-NRI grant.
+ - 2021 - Present: Developing novel semantic-metric VSLAM frameworks for collaborative multi-agent systems using geometric and semantic data. Additionally developing hands-on skills in deep learning perception systems, model-predictive controllers and 3D robotics simulators (Gazebo)
+ - 2019 - 2021: Anonymous multi-user tracking system using object detection and bluetooth positioning systems.
 
-Also presently learning how to use the Open 3D Engine for photorealsitic, physics-based simulation study.
- Email: akamal4@lsu.edu (valid tentatively till end of 2025)
+## 🤝 Collaborating Researchers
+- [Dr. Corina Barbalata](https://github.com/cbarbalata)
+
+## Acknowledgements
+- This template was desgined based on [JokerJohn's portfolio](https://github.com/JokerJohn/JokerJohn/blob/main/README.md?plain=1) README.md file
 
 
-
-This template was desgined based on [JokerJohn's portfolio](https://github.com/JokerJohn/JokerJohn/blob/main/README.md?plain=1) README.md file
-
-<!--
-**Mechazo11/Mechazo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
