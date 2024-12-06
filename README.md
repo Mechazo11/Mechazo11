@@ -30,6 +30,8 @@ Please feel free to reaching out to me over Email or LinkedIn
 
 ## 🤝 Collaborating Researchers
 - [Dr. Corina Barbalata](https://github.com/cbarbalata)
+- [Nenyi K.N. Dadson](https://github.com/Stein-NKND)
+- [Donovan Gegg](https://github.com/HailtheWhale)
 
 ## Acknowledgements
 - This template was desgined based on [JokerJohn's portfolio](https://github.com/JokerJohn/JokerJohn/blob/main/README.md?plain=1) README.md file
