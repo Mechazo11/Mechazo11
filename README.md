@@ -15,7 +15,7 @@ Please feel free to reaching out to me over Email or LinkedIn
 ## 🎓 Education
 
 - 🏫 Currently: Ph.D. student at the ICORE Lab in the Department of Mechanical Engineering, Louisiana State University.
-- 🏫 Masters in Engineering (conc. Mechanical Engineering) from the University of Louisiana at Lafayette. Degree awarded on December 2021.
+- 🏫 Masters in Engineering (conc. Mechanical Engineering) from the University of Louisiana at Lafayette. Degree awarded in December 2021.
 
 ## 🎯 Research Interests
 - Multi-agent Visual Object SLAM
